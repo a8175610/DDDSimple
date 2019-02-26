@@ -21,3 +21,4 @@ namespace DDD.Sample.Infrastructure
         }
     }
 }
+

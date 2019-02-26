@@ -15,3 +15,4 @@ namespace DDD.Sample.Infrastructure.DomainCore
         public Guid Id { get; protected set; }
     }
 }
+

@@ -18,6 +18,7 @@ namespace DDD.Sample.Infrastructure
             _transaction = _dbContext.Database.BeginTransaction();
         }
 
+
         public bool Commit()
         {
             var result = false;

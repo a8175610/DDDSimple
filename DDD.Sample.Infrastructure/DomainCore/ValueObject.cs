@@ -14,3 +14,4 @@ namespace DDD.Sample.Infrastructure.DomainCore
     {
     }
 }
+
